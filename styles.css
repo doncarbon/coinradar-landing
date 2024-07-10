@@ -1,3 +1,4 @@
+/* General body styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -5,6 +6,7 @@ body {
     background-color: #f4f4f4;
 }
 
+/* Header styles */
 header {
     background-color: #333;
     color: #fff;
@@ -12,22 +14,26 @@ header {
     text-align: center;
 }
 
+/* Navigation link styles */
 nav a {
     color: #fff;
     margin: 0 15px;
     text-decoration: none;
 }
 
+/* Intro section styles */
 #intro {
     text-align: center;
     padding: 2em;
 }
 
+/* Image styles in the intro section */
 #intro img {
     max-width: 100%;
     height: auto;
 }
 
+/* Features section styles */
 #features {
     background-color: #fff;
     padding: 2em;
@@ -36,21 +42,25 @@ nav a {
     flex-wrap: wrap;
 }
 
+/* Individual feature styles */
 .feature {
     width: 300px;
     margin: 1em;
     text-align: center;
 }
 
+/* Image styles in the feature */
 .feature img {
     max-width: 100px;
     height: auto;
 }
 
+/* About section styles */
 #about {
     padding: 2em;
 }
 
+/* Footer styles */
 footer {
     background-color: #333;
     color: #fff;
